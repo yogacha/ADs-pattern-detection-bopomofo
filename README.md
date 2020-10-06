@@ -1,0 +1,1 @@
+# ADs-pattern-detection-bopomofo
